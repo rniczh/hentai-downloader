@@ -1,0 +1,12 @@
+[package]
+name = "hentai-downloader"
+version = "0.1.0"
+authors = ["rnic <mathan0203@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = {version = "2.32", features = ["yaml"]}
+reqwest = "0.9.12"
+url = "1.7.2"
+select = "0.4.2"
+threadpool = "1.7.1"

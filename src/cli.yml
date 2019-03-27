@@ -1,0 +1,17 @@
+name: hentai-downloader
+version: "0.1"
+author: H.-S Zheng <mathan0203@gmail.com>
+about: Download the Manga from e(x)hentai website.
+args:
+  - cookie:
+      short: c
+      long: cookie
+      value_name: file
+      help: The cookie file for access exhentai.org
+
+  - url:
+      short: u
+      long: url
+      value_name: url
+      required: true
+      help: The url of Manga for which you want to download
