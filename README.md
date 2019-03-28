@@ -5,6 +5,7 @@ Download Manga from e-hentai/exhentai
 ## Installation
 
 See the Release page
+
 Only support Lniux right now.
 
 I will provide the windows or mac version if I am free.
