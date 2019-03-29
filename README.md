@@ -1,4 +1,4 @@
-# hentai-downloader
+# E(X)Hentai Downloader
 
 Download Manga from e-hentai/exhentai
 
