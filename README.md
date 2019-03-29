@@ -1,6 +1,12 @@
 # E(X)Hentai Downloader
 
-Download Manga from e-hentai/exhentai
+**Download Manga from e-hentai/exhentai**
+
+Be careful, the E(x)Hentai website has image limit for user.
+
+#![limit](https://i.imgur.com/OglhmK5.png)
+
+So, you will take hours to recover if you exceed this image limit.
 
 ## Installation
 
