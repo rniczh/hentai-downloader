@@ -6,17 +6,16 @@ Download Manga from e-hentai/exhentai
 
 See the Release page
 
-Only support Lniux right now.
-
-I will provide the windows or mac version if I am free.
-(also i'm not sure how to cross-compile it)
-
-It may be easy for you to compile with Cargo if you are in a hurry.
+Support `Linux`, `Windows` right now.
 
 ## Compilation
 
+Make sure you have installed `rustup`, link: https://rustup.rs/
+
+and input this command:
+
 ```
-cargo build --release
+cargo +nightly build --release
 ```
 
 Then the exectable will placed in target/release/hentai-downloader
@@ -25,7 +24,26 @@ Then the exectable will placed in target/release/hentai-downloader
 
 See `hentai-downloader --help` for help.
 
-Example.
+```
+hentai-downloader 0.1
+H.-S Zheng <mathan0203@gmail.com>
+Download the Manga from e(x)hentai website.
+
+USAGE:
+    hentai-downloader [OPTIONS] --url <url>
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+OPTIONS:
+    -c, --cookie <file>    The cookie file for access exhentai.org
+    -u, --url <url>        The url of Manga for which you want to downloa
+
+```
+
+
+**Example.**
 
 `hentai-downloader -u https://e-hentai.org/g/12345/hijklmn/ `
 
