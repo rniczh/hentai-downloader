@@ -3,7 +3,7 @@
 
 **RIP** 💐
 
-It's so sad to hear that exhentai will not mantain anymore. QQ
+It's so sad to hear that exhentai will not maintain anymore. QQ
 
 ![Imgur](https://i.imgur.com/Fl5qtF2.jpg)
 
