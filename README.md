@@ -1,10 +1,17 @@
 # E(X)Hentai Downloader
 
+
+**RIP** 💐
+
+It's so sad to hear that exhentai will not mantain anymore. QQ
+
+![Imgur](https://i.imgur.com/Fl5qtF2.jpg)
+
 **Download Manga from e-hentai/exhentai**
 
 Be careful, the E(x)Hentai website has image limit for user.
 
-#![limit](https://i.imgur.com/OglhmK5.png)
+![limit](https://i.imgur.com/OglhmK5.png)
 
 So, you will take hours to recover if you exceed this image limit.
 
@@ -36,15 +43,15 @@ H.-S Zheng <mathan0203@gmail.com>
 Download the Manga from e(x)hentai website.
 
 USAGE:
-    hentai-downloader [OPTIONS] --url <url>
+	hentai-downloader [OPTIONS] --url <url>
 
 FLAGS:
-    -h, --help       Prints help information
-    -V, --version    Prints version information
+	-h, --help       Prints help information
+	-V, --version    Prints version information
 
 OPTIONS:
-    -c, --cookie <file>    The cookie file for access exhentai.org
-    -u, --url <url>        The url of Manga for which you want to downloa
+	-c, --cookie <file>    The cookie file for access exhentai.org
+	-u, --url <url>        The url of Manga for which you want to downloa
 
 ```
 
