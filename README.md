@@ -22,7 +22,7 @@ Make sure you have installed `rustup`, link: https://rustup.rs/
 and input this command:
 
 ```
-cargo +nightly build --release
+cargo build --release
 ```
 
 Then the exectable will placed in target/release/hentai-downloader
